@@ -99,7 +99,7 @@ To provide a **comprehensive, interactive, and visual representation** of a busi
 
 ## 📸 Dashboard Preview
 
-![Sales Analysis Dashboard Preview](./screenshot.png)
+![Sales Analysis Dashboard Preview](./dashboard.png)
 
 ---
 
